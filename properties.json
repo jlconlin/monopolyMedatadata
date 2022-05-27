@@ -4,7 +4,7 @@
       "name": "Mediterranean Avenue",
       "price": 60,
       "rent": 2,
-      "multpliedrent": [
+      "multipliedrent": [
         10,
         30,
         90,
@@ -17,7 +17,7 @@
       "name": "Baltic Avenue",
       "price": 60,
       "rent": 4,
-      "multpliedrent": [
+      "multipliedrent": [
         20,
         60,
         180,
@@ -30,7 +30,7 @@
       "name": "Oriental Avenue",
       "price": 100,
       "rent": 6,
-      "multpliedrent": [
+      "multipliedrent": [
         30,
         90,
         270,
@@ -43,7 +43,7 @@
       "name": "Vermont Avenue",
       "price": 100,
       "rent": 6,
-      "multpliedrent": [
+      "multipliedrent": [
         30,
         90,
         270,
@@ -56,7 +56,7 @@
       "name": "Connecticut Avenue",
       "price": 120,
       "rent": 8,
-      "multpliedrent": [
+      "multipliedrent": [
         40,
         100,
         300,
@@ -69,7 +69,7 @@
       "name": "St. Charles Place",
       "price": 140,
       "rent": 10,
-      "multpliedrent": [
+      "multipliedrent": [
         50,
         150,
         450,
@@ -82,7 +82,7 @@
       "name": "States Avenue",
       "price": 140,
       "rent": 10,
-      "multpliedrent": [
+      "multipliedrent": [
         50,
         150,
         450,
@@ -95,7 +95,7 @@
       "name": "Virginia Avenue",
       "price": 160,
       "rent": 12,
-      "multpliedrent": [
+      "multipliedrent": [
         60,
         180,
         500,
@@ -108,7 +108,7 @@
       "name": "St. James Place",
       "price": 180,
       "rent": 14,
-      "multpliedrent": [
+      "multipliedrent": [
         70,
         200,
         550,
@@ -121,7 +121,7 @@
       "name": "Tennessee Avenue",
       "price": 180,
       "rent": 14,
-      "multpliedrent": [
+      "multipliedrent": [
         70,
         200,
         550,
@@ -134,7 +134,7 @@
       "name": "New York Avenue",
       "price": 200,
       "rent": 16,
-      "multpliedrent": [
+      "multipliedrent": [
         80,
         220,
         600,
@@ -147,7 +147,7 @@
       "name": "Kentucky Avenue",
       "price": 220,
       "rent": 18,
-      "multpliedrent": [
+      "multipliedrent": [
         90,
         250,
         700,
@@ -160,7 +160,7 @@
       "name": "Indiana Avenue",
       "price": 220,
       "rent": 18,
-      "multpliedrent": [
+      "multipliedrent": [
         90,
         250,
         700,
@@ -173,7 +173,7 @@
       "name": "Illinois Avenue",
       "price": 240,
       "rent": 20,
-      "multpliedrent": [
+      "multipliedrent": [
         100,
         300,
         750,
@@ -186,7 +186,7 @@
       "name": "Atlantic Avenue",
       "price": 260,
       "rent": 22,
-      "multpliedrent": [
+      "multipliedrent": [
         110,
         330,
         800,
@@ -199,7 +199,7 @@
       "name": "Ventnor Avenue",
       "price": 260,
       "rent": 22,
-      "multpliedrent": [
+      "multipliedrent": [
         110,
         330,
         800,
@@ -212,7 +212,7 @@
       "name": "Marvin Gardens",
       "price": 280,
       "rent": 22,
-      "multpliedrent": [
+      "multipliedrent": [
         120,
         360,
         850,
@@ -225,7 +225,7 @@
       "name": "Pacific Avenue",
       "price": 300,
       "rent": 26,
-      "multpliedrent": [
+      "multipliedrent": [
         130,
         390,
         900,
@@ -238,7 +238,7 @@
       "name": "North Carolina Avenue",
       "price": 300,
       "rent": 26,
-      "multpliedrent": [
+      "multipliedrent": [
         130,
         390,
         900,
@@ -251,7 +251,7 @@
       "name": "Pennsylvania Avenue",
       "price": 320,
       "rent": 28,
-      "multpliedrent": [
+      "multipliedrent": [
         150,
         450,
         1000,
@@ -264,7 +264,7 @@
       "name": "Park Place",
       "price": 350,
       "rent": 35,
-      "multpliedrent": [
+      "multipliedrent": [
         175,
         500,
         1100,
@@ -277,7 +277,7 @@
       "name": "Boardwalk",
       "price": 400,
       "rent": 50,
-      "multpliedrent": [
+      "multipliedrent": [
         200,
         600,
         1400,
