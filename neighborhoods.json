@@ -22,11 +22,11 @@
     },
     "Yellow": {
       "color": "Yellow",
-      "properties": [ "atlantic", "ventnorave", "marvingardens" ]
+      "properties": [ "atlanticave", "ventnorave", "marvingardens" ]
     },
     "darkgreen": {
       "color": "darkgreen",
-      "properties": [ "pacificave", "northcarolinave", "pensylvaniaave" ]
+      "properties": [ "pacificave", "northcarolinaave", "pennsylvaniaave" ]
     },
     "darkblue": {
       "color": "darkblue",
