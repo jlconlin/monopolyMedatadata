@@ -12,7 +12,6 @@
         250
       ],
       "housecost": 50,
-      "group": "Purple"
     },
     "balticave": {
       "name": "Baltic Avenue",
@@ -26,7 +25,6 @@
         450
       ],
       "housecost": 50,
-      "group": "Purple"
     },
     "orientalave": {
       "name": "Oriental Avenue",
@@ -40,7 +38,6 @@
         550
       ],
       "housecost": 50,
-      "group": "lightgreen"
     },
     "vermontave": {
       "name": "Vermont Avenue",
@@ -54,7 +51,6 @@
         550
       ],
       "housecost": 50,
-      "group": "lightgreen"
     },
     "connecticutave": {
       "name": "Connecticut Avenue",
@@ -68,7 +64,6 @@
         600
       ],
       "housecost": 50,
-      "group": "lightgreen"
     },
     "stcharlesplace": {
       "name": "St. Charles Place",
@@ -82,7 +77,6 @@
         750
       ],
       "housecost": 100,
-      "group": "Violet"
     },
     "statesave": {
       "name": "States Avenue",
@@ -96,7 +90,6 @@
         750
       ],
       "housecost": 100,
-      "group": "Violet"
     },
     "virginiaave": {
       "name": "Virginia Avenue",
@@ -110,7 +103,6 @@
         900
       ],
       "housecost": 100,
-      "group": "Violet"
     },
     "stjamesplace": {
       "name": "St. James Place",
@@ -124,7 +116,6 @@
         950
       ],
       "housecost": 100,
-      "group": "Orange"
     },
     "tennesseeave": {
       "name": "Tennessee Avenue",
@@ -138,7 +129,6 @@
         950
       ],
       "housecost": 100,
-      "group": "Orange"
     },
     "newyorkave": {
       "name": "New York Avenue",
@@ -152,7 +142,6 @@
         1000
       ],
       "housecost": 100,
-      "group": "Orange"
     },
     "kentuckyave": {
       "name": "Kentucky Avenue",
@@ -166,7 +155,6 @@
         1050
       ],
       "housecost": 150,
-      "group": "Red"
     },
     "indianaave": {
       "name": "Indiana Avenue",
@@ -180,7 +168,6 @@
         1050
       ],
       "housecost": 150,
-      "group": "Red"
     },
     "illinoisave": {
       "name": "Illinois Avenue",
@@ -194,7 +181,6 @@
         1100
       ],
       "housecost": 150,
-      "group": "Red"
     },
     "atlanticave": {
       "name": "Atlantic Avenue",
@@ -208,7 +194,6 @@
         1150
       ],
       "housecost": 150,
-      "group": "Yellow"
     },
     "ventnorave": {
       "name": "Ventnor Avenue",
@@ -222,7 +207,6 @@
         1150
       ],
       "housecost": 150,
-      "group": "Yellow"
     },
     "marvingardens": {
       "name": "Marvin Gardens",
@@ -236,7 +220,6 @@
         1200
       ],
       "housecost": 150,
-      "group": "Yellow"
     },
     "pacificave": {
       "name": "Pacific Avenue",
@@ -250,7 +233,6 @@
         1275
       ],
       "housecost": 200,
-      "group": "darkgreen"
     },
     "northcarolinaave": {
       "name": "North Carolina Avenue",
@@ -264,7 +246,6 @@
         1275
       ],
       "housecost": 200,
-      "group": "darkgreen"
     },
     "pennsylvaniaave": {
       "name": "Pennsylvania Avenue",
@@ -278,7 +259,6 @@
         1400
       ],
       "housecost": 200,
-      "group": "darkgreen"
     },
     "parkplace": {
       "name": "Park Place",
@@ -292,7 +272,6 @@
         1500
       ],
       "housecost": 200,
-      "group": "darkblue"
     },
     "boardwalk": {
       "name": "Boardwalk",
@@ -306,37 +285,30 @@
         2000
       ],
       "housecost": 200,
-      "group": "darkblue"
     },
     "electriccompany": {
       "name": "Electric Company",
       "price": 150,
-      "group": "Utilities"
     },
     "waterworks": {
       "name": "Water Works",
       "price": 150,
-      "group": "Utilities"
     },
     "readingrailroad": {
       "name": "Reading Railroad",
       "price": 200,
-      "group": "Railroad"
     },
     "pennsylvaniarailroad": {
       "name": "Pennsylvania Railroad",
       "price": 200,
-      "group": "Railroad"
     },
     "borailroad": {
       "name": "B. & O. Railroad",
       "price": 200,
-      "group": "Railroad"
     },
     "shortlinerailroad": {
       "name": "Short Line Railroad",
       "price": 200,
-      "group": "Railroad"
     }
   }
 }
