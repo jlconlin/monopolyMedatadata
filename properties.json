@@ -11,7 +11,7 @@
         160,
         250
       ],
-      "housecost": 50,
+      "housecost": 50
     },
     "balticave": {
       "name": "Baltic Avenue",
@@ -24,7 +24,7 @@
         320,
         450
       ],
-      "housecost": 50,
+      "housecost": 50
     },
     "orientalave": {
       "name": "Oriental Avenue",
@@ -37,7 +37,7 @@
         400,
         550
       ],
-      "housecost": 50,
+      "housecost": 50
     },
     "vermontave": {
       "name": "Vermont Avenue",
@@ -50,7 +50,7 @@
         400,
         550
       ],
-      "housecost": 50,
+      "housecost": 50
     },
     "connecticutave": {
       "name": "Connecticut Avenue",
@@ -63,7 +63,7 @@
         450,
         600
       ],
-      "housecost": 50,
+      "housecost": 50
     },
     "stcharlesplace": {
       "name": "St. Charles Place",
@@ -76,7 +76,7 @@
         625,
         750
       ],
-      "housecost": 100,
+      "housecost": 100
     },
     "statesave": {
       "name": "States Avenue",
@@ -89,7 +89,7 @@
         625,
         750
       ],
-      "housecost": 100,
+      "housecost": 100
     },
     "virginiaave": {
       "name": "Virginia Avenue",
@@ -102,7 +102,7 @@
         700,
         900
       ],
-      "housecost": 100,
+      "housecost": 100
     },
     "stjamesplace": {
       "name": "St. James Place",
@@ -115,7 +115,7 @@
         750,
         950
       ],
-      "housecost": 100,
+      "housecost": 100
     },
     "tennesseeave": {
       "name": "Tennessee Avenue",
@@ -128,7 +128,7 @@
         750,
         950
       ],
-      "housecost": 100,
+      "housecost": 100
     },
     "newyorkave": {
       "name": "New York Avenue",
@@ -141,7 +141,7 @@
         800,
         1000
       ],
-      "housecost": 100,
+      "housecost": 100
     },
     "kentuckyave": {
       "name": "Kentucky Avenue",
@@ -154,7 +154,7 @@
         875,
         1050
       ],
-      "housecost": 150,
+      "housecost": 150
     },
     "indianaave": {
       "name": "Indiana Avenue",
@@ -167,7 +167,7 @@
         875,
         1050
       ],
-      "housecost": 150,
+      "housecost": 150
     },
     "illinoisave": {
       "name": "Illinois Avenue",
@@ -180,7 +180,7 @@
         925,
         1100
       ],
-      "housecost": 150,
+      "housecost": 150
     },
     "atlanticave": {
       "name": "Atlantic Avenue",
@@ -193,7 +193,7 @@
         975,
         1150
       ],
-      "housecost": 150,
+      "housecost": 150
     },
     "ventnorave": {
       "name": "Ventnor Avenue",
@@ -206,7 +206,7 @@
         975,
         1150
       ],
-      "housecost": 150,
+      "housecost": 150
     },
     "marvingardens": {
       "name": "Marvin Gardens",
@@ -219,7 +219,7 @@
         1025,
         1200
       ],
-      "housecost": 150,
+      "housecost": 150
     },
     "pacificave": {
       "name": "Pacific Avenue",
@@ -232,7 +232,7 @@
         1100,
         1275
       ],
-      "housecost": 200,
+      "housecost": 200
     },
     "northcarolinaave": {
       "name": "North Carolina Avenue",
@@ -245,7 +245,7 @@
         1100,
         1275
       ],
-      "housecost": 200,
+      "housecost": 200
     },
     "pennsylvaniaave": {
       "name": "Pennsylvania Avenue",
@@ -258,7 +258,7 @@
         1200,
         1400
       ],
-      "housecost": 200,
+      "housecost": 200
     },
     "parkplace": {
       "name": "Park Place",
@@ -271,7 +271,7 @@
         1300,
         1500
       ],
-      "housecost": 200,
+      "housecost": 200
     },
     "boardwalk": {
       "name": "Boardwalk",
@@ -284,31 +284,31 @@
         1700,
         2000
       ],
-      "housecost": 200,
+      "housecost": 200
     },
     "electriccompany": {
       "name": "Electric Company",
-      "price": 150,
+      "price": 150
     },
     "waterworks": {
       "name": "Water Works",
-      "price": 150,
+      "price": 150
     },
     "readingrailroad": {
       "name": "Reading Railroad",
-      "price": 200,
+      "price": 200
     },
     "pennsylvaniarailroad": {
       "name": "Pennsylvania Railroad",
-      "price": 200,
+      "price": 200
     },
     "borailroad": {
       "name": "B. & O. Railroad",
-      "price": 200,
+      "price": 200
     },
     "shortlinerailroad": {
       "name": "Short Line Railroad",
-      "price": 200,
+      "price": 200
     }
   }
 }
