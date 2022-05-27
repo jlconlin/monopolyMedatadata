@@ -1,0 +1,36 @@
+{
+  "propertyGroups": {
+    "Purple": {
+      "color": "Purple",
+      "properties": [ "mediterraneanave", "balticave" ]
+    },
+    "lightgreen": {
+      "color": "lightgreen",
+      "properties": [ "orientalave", "vermontave", "connecticutave" ]
+    },
+    "Violet": {
+      "color": "Violet",
+      "properties": [ "stcharlesplace", "statesave", "virginiaave" ]
+    },
+    "Orange": {
+      "color": "Orange",
+      "properties": [ "stjamesplace", "tennesseeave", "newyorkave" ]
+    },
+    "Red": {
+      "color": "Red",
+      "properties": [ "kentuckyave", "indianaave", "illinoisave" ]
+    },
+    "Yellow": {
+      "color": "Yellow",
+      "properties": [ "atlantic", "ventnorave", "marvingardens" ]
+    },
+    "darkgreen": {
+      "color": "darkgreen",
+      "properties": [ "pacificave", "northcarolinave", "pensylvaniaave" ]
+    },
+    "darkblue": {
+      "color": "darkblue",
+      "properties": [ "parkplace", "boardwalk" ]
+    }
+  }
+}
