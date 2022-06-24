@@ -287,7 +287,7 @@
       "housecost": 200
     }
   },
-  "properties": {
+  "utilities": {
     "electriccompany": {
       "name": "Electric Company",
       "price": 150
@@ -295,7 +295,9 @@
     "waterworks": {
       "name": "Water Works",
       "price": 150
-    },
+    }
+  },
+  "railroads": {
     "readingrailroad": {
       "name": "Reading Railroad",
       "price": 200
