@@ -1,0 +1,26 @@
+[
+    {  "name": "Go",
+        "type": "go"
+    },
+    {  "name": "Community Chest",
+        "type": "community-chest"
+    },
+    {  "name": "Income Tax",
+        "type": "tax"
+    },
+    {  "name": "Chance",
+        "type": "chance"
+    },
+    {  "name": "Jail",
+        "type": "jail"
+    },
+    {  "name": "Free Parking",
+        "type": "free-parking"
+    },
+    {  "name": "Go To Jail",
+        "type": "go-to-jail"
+    },
+    {  "name": "Luxury Tax",
+        "type": "tax"
+    }
+]
