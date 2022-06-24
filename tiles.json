@@ -1,26 +1,38 @@
-[
-    {  "name": "Go",
-        "type": "go"
+{
+    "go": {  
+        "name": "Go",
+        "type": "Go"
     },
-    {  "name": "Community Chest",
-        "type": "community-chest"
+    "communitychest": {  
+        "name": "Community Chest",
+        "type": "CommunityChest"
     },
-    {  "name": "Income Tax",
-        "type": "tax"
+    "incometax": {  
+        "name": "Income Tax",
+        "type": "IncomeTax"
     },
-    {  "name": "Chance",
-        "type": "chance"
+    "chance": {  
+        "name": "Chance",
+        "type": "Chance"
     },
-    {  "name": "Jail",
-        "type": "jail"
+    "jail": {  
+        "name": "Jail",
+        "type": "Jail"
     },
-    {  "name": "Free Parking",
-        "type": "free-parking"
+    "justvisiting": {
+        "name": "Just Visiting",
+        "type": "JustVisiting"
     },
-    {  "name": "Go To Jail",
-        "type": "go-to-jail"
+    "freeparking": {  
+        "name": "Free Parking",
+        "type": "FreeParking"
     },
-    {  "name": "Luxury Tax",
-        "type": "tax"
+    "gotojail": {  
+        "name": "Go To Jail",
+        "type": "GotoJail"
+    },
+    "luxurytax": {  
+        "name": "Luxury Tax",
+        "type": "LuxuryTax"
     }
-]
+}
