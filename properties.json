@@ -1,5 +1,5 @@
 {
-  "properties": {
+  "buildables": {
     "mediterraneanave": {
       "name": "Mediterranean Avenue",
       "price": 60,
@@ -285,7 +285,9 @@
         2000
       ],
       "housecost": 200
-    },
+    }
+  },
+  "properties": {
     "electriccompany": {
       "name": "Electric Company",
       "price": 150
